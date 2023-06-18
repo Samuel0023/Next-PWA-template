@@ -1,6 +1,7 @@
 import './globals.css'
 import Head from 'next/head'
 import { Inter } from 'next/font/google'
+import { Metadata } from 'next'
 import React from 'react'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -8,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 const APP_NAME = 'NEXT PWA Template'
 const APP_DESCRIPTION = 'Template for a PWA Aplication'
 
-export const metadata = {
+export const metadata: Metadata = {
   applicationName: APP_NAME,
   title: {
     default: APP_NAME,
