@@ -17,6 +17,9 @@ yarn dev
 # or
 pnpm dev
 ```
+## Evidence 
+![image](https://github.com/Samuel0023/Next-PWA-template/assets/38141029/9191782d-4072-4e54-9b35-0e8005381aee)
+
 ## Utils links
 - Create a Manifest with [Manifest Generator](https://www.simicart.com/manifest-generator.html/)
 
