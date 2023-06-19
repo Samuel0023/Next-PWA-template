@@ -37,3 +37,6 @@ pnpm dev
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
+## PWA helpers
+
+- [Helping developers build and publish PWAs ](https://www.pwabuilder.com)
